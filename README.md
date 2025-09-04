@@ -31,7 +31,7 @@ bash
 npm install
 ```
 ### Запустите приложение в режиме разработки:
-bash```
+bash ```
 npm start
 ```
 ### Откройте http://localhost:3000 в браузере.
